@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.1.3">
   <diagram name="Страница — 1" id="2G6WzUzBENo-lz0mR056">
-    <mxGraphModel dx="2069" dy="2063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2042" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -853,12 +853,12 @@
         <mxCell id="SFD6s03aIvj_HNxZNIPM-215" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="SFD6s03aIvj_HNxZNIPM-105" vertex="1">
           <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SFD6s03aIvj_HNxZNIPM-216" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="SFD6s03aIvj_HNxZNIPM-215" vertex="1">
+        <mxCell id="SFD6s03aIvj_HNxZNIPM-216" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="SFD6s03aIvj_HNxZNIPM-215" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SFD6s03aIvj_HNxZNIPM-217" value="Manager_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="SFD6s03aIvj_HNxZNIPM-215" vertex="1">
+        <mxCell id="SFD6s03aIvj_HNxZNIPM-217" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="SFD6s03aIvj_HNxZNIPM-215" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -970,12 +970,6 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="430" y="640" as="sourcePoint" />
             <mxPoint x="530" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SFD6s03aIvj_HNxZNIPM-230" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;" parent="1" source="SFD6s03aIvj_HNxZNIPM-215" target="SFD6s03aIvj_HNxZNIPM-2" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="260" y="130" as="sourcePoint" />
-            <mxPoint x="360" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SFD6s03aIvj_HNxZNIPM-231" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="SFD6s03aIvj_HNxZNIPM-146" target="SFD6s03aIvj_HNxZNIPM-106" edge="1">
